@@ -48,7 +48,9 @@ The primary data file used in this project is:
 financial_loan.csv - Contains the raw data related to bank loan applications, loan amounts, payments, interest rates, and debt-to-income ratios.
 
 ## Key Metrics and DAX Formulas
-Detailed SQL queries and DAX formulas used in this project can be found in the docs/Bank_Loan_DB Queries & DAX.pdf file. This document includes all the necessary calculations for metrics such as:  
+Detailed SQL queries and DAX formulas used in this project can be found in the docs/Bank_Loan_DB Queries & DAX.pdf file.  
+This document includes all the necessary calculations for metrics such as:  
+
 Total Loan Applications  
 Month-to-Date (MTD) Loan Applications  
 Previous Month-to-Date (PMTD) Loan Applications  
@@ -80,11 +82,14 @@ Bad Loan Received Amount
 
 ## Power BI Visualization  
 The Power BI report (BankDB_DataAnalytics.pbix) is located in the powerbi_reports directory. The report includes multiple pages with interactive visualizations such as:  
-- Bar charts  
-- Line graphs  
-- Pie charts  
+- Cards  
+- Bar chart  
+- Area chart      
+- Donut chart
+- Shape map
+- Tree map  
 - Tables  
-You can find a detailed overview of the Power BI dashboard in the docs/BankDB PowerBI Dashboard.pdf file.  
+You can find a detailed overview of the Power BI dashboard in the BankDB PowerBI Dashboard.pdf file.  
 
 ## How to Open the Report
 - Open Power BI Desktop.  

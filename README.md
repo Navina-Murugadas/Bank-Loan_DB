@@ -88,7 +88,7 @@ The Power BI report (BankDB_DataAnalytics.pbix) is located in the powerbi_report
 - Donut chart
 - Shape map
 - Tree map  
-- Tables  
+- Tables
 You can find a detailed overview of the Power BI dashboard in the BankDB PowerBI Dashboard.pdf file.  
 
 ## How to Open the Report

@@ -81,7 +81,7 @@ Bad Loan Funded Amount
 Bad Loan Received Amount  
 
 ## Power BI Visualization  
-The Power BI report (BankDB_DataAnalytics.pbix) is located in the powerbi_reports directory. The report includes multiple pages with interactive visualizations such as:  
+The Power BI report (BankDB_DataAnalytics.pbix) includes multiple pages with interactive visualizations such as:  
 - Cards  
 - Bar chart  
 - Area chart      
@@ -89,6 +89,7 @@ The Power BI report (BankDB_DataAnalytics.pbix) is located in the powerbi_report
 - Shape map
 - Tree map  
 - Tables
+
 You can find a detailed overview of the Power BI dashboard in the BankDB PowerBI Dashboard.pdf file.  
 
 ## How to Open the Report

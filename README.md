@@ -14,20 +14,18 @@ This project focuses on analyzing bank loan data to provide insights into loan a
 7. [Power BI Visualization](#power-bi-visualization)
 8. [Usage](#usage)
 9. [Key Takeaways](#key-takeaways)
-10. [Contributing](#contributing)
-11. [License](#license)
-12. [Contact](#contact)
+10. [Contact](#contact)
 
 ## Introduction
 This project analyzes bank loan data to provide insights on key metrics such as total loan applications, funded amounts, received amounts, interest rates, and debt-to-income ratios. The analysis also distinguishes between good and bad loans and includes month-over-month (MoM) comparisons.
 
 ## Project Structure
 The repository is organized as follows:
-**Data:** financial_loan.csv
-**SQL queries:** Bank_Loan SQL1.sql, Bank_Loan SQL2.sql
-**PowerBI report:** BankDB_DataAnalytics.pbix
-**Docs:** Bank_Loan_DB Queries & DAX.pdf, BankDB PowerBI Dashboard.pdf
-README.md
+**Data:** financial_loan.csv  
+**SQL queries:** Bank_Loan SQL1.sql, Bank_Loan SQL2.sql  
+**PowerBI report:** BankDB_DataAnalytics.pbix  
+**Docs:** Bank_Loan_DB Queries & DAX.pdf, BankDB PowerBI Dashboard.pdf  
+README.md  
 
 ## Getting Started
 To get started with this project, follow these steps:

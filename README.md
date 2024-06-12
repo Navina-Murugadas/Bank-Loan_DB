@@ -12,9 +12,8 @@ This project focuses on analyzing bank loan data to provide insights into loan a
 5. [Data Sources](#data-sources)
 6. [Key Metrics and DAX Formulas](#key-metrics-and-dax-formulas)
 7. [Power BI Visualization](#power-bi-visualization)
-8. [Usage](#usage)
-9. [Key Takeaways](#key-takeaways)
-10. [Contact](#contact)
+8. [Key Takeaways](#key-takeaways)
+9. [Contact](#contact)
 
 ## Introduction
 This project analyzes bank loan data to provide insights on key metrics such as total loan applications, funded amounts, received amounts, interest rates, and debt-to-income ratios. The analysis also distinguishes between good and bad loans and includes month-over-month (MoM) comparisons.
@@ -41,7 +40,8 @@ To get started with this project, follow these steps:
 Ensure you have the following software installed:  
 - SQL Server or any other SQL database management system  
 - Power BI Desktop   
-- Data Sources  
+
+## Data Sources  
 The primary data file used in this project is:  
 financial_loan.csv - Contains the raw data related to bank loan applications, loan amounts, payments, interest rates, and debt-to-income ratios.
 

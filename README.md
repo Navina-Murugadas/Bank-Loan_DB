@@ -11,9 +11,8 @@ This project focuses on analyzing bank loan data to provide insights into loan a
 4. [Prerequisites](#prerequisites)
 5. [Data Sources](#data-sources)
 6. [Key Metrics and DAX Formulas](#key-metrics-and-dax-formulas)
-7. [Power BI Visualization](#power-bi-visualization)
-8. [Key Takeaways](#key-takeaways)
-9. [Contact](#contact)
+7. [Key Takeaways](#key-takeaways)
+8. [Contact](#contact)
 
 ## Introduction
 This project analyzes bank loan data to provide insights on key metrics such as total loan applications, funded amounts, received amounts, interest rates, and debt-to-income ratios. The analysis also distinguishes between good and bad loans and includes month-over-month (MoM) comparisons.

@@ -11,8 +11,11 @@ This project focuses on analyzing bank loan data to provide insights into loan a
 4. [Prerequisites](#prerequisites)
 5. [Data Sources](#data-sources)
 6. [Key Metrics and DAX Formulas](#key-metrics-and-dax-formulas)
-7. [Key Takeaways](#key-takeaways)
-8. [Contact](#contact)
+7. [Power BI Visualization](#power-bi-visualization)
+8. [How to Open the Report](#how-to-open-the-Report)
+9. [Usage](#usage)
+10. [Key Takeaways](#key-takeaways)
+11. [Contact](#contact)
 
 ## Introduction
 This project analyzes bank loan data to provide insights on key metrics such as total loan applications, funded amounts, received amounts, interest rates, and debt-to-income ratios. The analysis also distinguishes between good and bad loans and includes month-over-month (MoM) comparisons.
@@ -74,8 +77,8 @@ Bad Loan %
 Bad Loan Applications  
 Bad Loan Funded Amount  
 Bad Loan Received Amount  
-Power BI Visualization  
 
+## Power BI Visualization  
 The Power BI report (BankDB_DataAnalytics.pbix) is located in the powerbi_reports directory. The report includes multiple pages with interactive visualizations such as:  
 - Bar charts  
 - Line graphs  
@@ -86,8 +89,9 @@ You can find a detailed overview of the Power BI dashboard in the docs/BankDB Po
 ## How to Open the Report
 - Open Power BI Desktop.  
 - Go to File > Open and select the BankDB_DataAnalytics.pbix file.  
-- Usage  
-Run the SQL scripts located in the sql_queries/Bank_Loan SQL1.sql and sql_queries/Bank_Loan SQL2.sql to prepare and process the data.  
+
+## Usage  
+- Run the SQL scripts located in the sql_queries/Bank_Loan SQL1.sql and sql_queries/Bank_Loan SQL2.sql to prepare and process the data.  
 - Open the Power BI report to view and interact with the visualizations.  
 
 ## Key Takeaways

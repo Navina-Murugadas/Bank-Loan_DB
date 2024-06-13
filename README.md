@@ -16,6 +16,7 @@ This project focuses on analyzing bank loan data to provide insights into loan a
 9. [Usage](#usage)
 10. [Key Takeaways](#key-takeaways)
 11. [Contact](#contact)
+12. [Dashboard Images](#dashboard-images)
 
 ## Introduction
 This project analyzes bank loan data to provide insights on key metrics such as total loan applications, funded amounts, received amounts, interest rates, and debt-to-income ratios. The analysis also distinguishes between good and bad loans and includes month-over-month (MoM) comparisons.
@@ -118,5 +119,9 @@ If you have any questions or feedback, please feel free to reach out:
 - Email: [murukavikabhinavi@gmail.com](mailto:murukavikabhinavi@gmail.com)
 - GitHub: [Navina-Murugadas](https://github.com/Navina-Murugadas)
 
+## Dashboard Images  
+![BankDB_DataAnalytics_page-0001](https://github.com/Navina-Murugadas/Bank-Loan_DB/assets/72821323/c244d465-b015-413d-a0d5-d29bc69d4f50)  
 
+![BankDB_DataAnalytics_page-0002](https://github.com/Navina-Murugadas/Bank-Loan_DB/assets/72821323/15151c63-2b65-494c-939f-65b62b8e2a56)  
 
+![BankDB_DataAnalytics_page-0003](https://github.com/Navina-Murugadas/Bank-Loan_DB/assets/72821323/401e1420-0470-46c7-bf8c-9107f7b09cb7)

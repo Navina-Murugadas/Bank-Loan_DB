@@ -1,5 +1,5 @@
 # Bank Loan Analysis Project  
-## (DATA ANALYTCS USING SQL & POWER BI)
+## (DATA ANALYTICS USING SQL & POWER BI)
 
 ## Project Overview
 This project focuses on analyzing bank loan data to provide insights into loan applications, funded amounts, received amounts, interest rates, debt-to-income (DTI) ratios, and loan quality. The analysis is performed using SQL for data extraction and Power BI for visualization.

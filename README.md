@@ -50,8 +50,8 @@ financial_loan.csv - Contains the raw data related to bank loan applications, lo
 
 ## Key Metrics and DAX Formulas
 Detailed SQL queries and DAX formulas used in this project can be found in the docs/Bank_Loan_DB Queries & DAX.pdf file.  
-This document includes all the necessary calculations for metrics such as:  
 
+This document includes all the necessary calculations for metrics such as:  
 Total Loan Applications  
 Month-to-Date (MTD) Loan Applications  
 Previous Month-to-Date (PMTD) Loan Applications  

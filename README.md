@@ -23,7 +23,7 @@ This project analyzes bank loan data to provide insights on key metrics such as 
 
 ## Project Structure
 The repository is organized as follows:  
-- **Data:** financial_loan.csv  
+- **Data:** financial_loan.csv
 - **SQL queries:** Bank_Loan SQL1.sql, Bank_Loan SQL2.sql  
 - **PowerBI report:** BankDB_DataAnalytics.pbix  
 - **Docs:** Bank_Loan_DB Queries & DAX.pdf, BankDB PowerBI Dashboard.pdf  

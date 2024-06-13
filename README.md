@@ -1,4 +1,4 @@
-# Bank Loan Analysis Project  
+# BANK LOAN ANALYSIS PROJECT  
 ## (DATA ANALYTICS USING SQL & POWER BI)
 
 ## Project Overview

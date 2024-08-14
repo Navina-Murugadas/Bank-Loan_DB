@@ -93,6 +93,8 @@ The Power BI report (BankDB_DataAnalytics.pbix) includes multiple pages with int
 
 You can find a detailed overview of the Power BI dashboard in the BankDB PowerBI Dashboard.pdf file.  
 
+Link: [PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg4Y2JlMzktZDVmYS00NWE5LWIyYzUtOGIwNWFjZWUwZjE1IiwidCI6ImFmZGFmY2M3LThiY2QtNGExMy04YTAyLTU1NTAxNDM5YzlkNyJ9)
+
 ## How to Open the Report
 - Open Power BI Desktop.  
 - Go to File > Open and select the BankDB_DataAnalytics.pbix file.  

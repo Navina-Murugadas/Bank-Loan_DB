@@ -12,7 +12,7 @@ This project focuses on analyzing bank loan data to provide insights into loan a
 5. [Data Sources](#data-sources)
 6. [Key Metrics and DAX Formulas](#key-metrics-and-dax-formulas)
 7. [Power BI Visualization](#power-bi-visualization)
-8. [How to Open the Report](#how-to-open-the-Report)
+8. [How to Open the Report](#how-to-open-the-report)
 9. [Usage](#usage)
 10. [Key Takeaways](#key-takeaways)
 11. [Contact](#contact)
